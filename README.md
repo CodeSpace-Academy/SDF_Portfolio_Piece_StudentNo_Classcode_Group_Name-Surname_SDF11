@@ -1,19 +1,17 @@
-# Installation
+# Portfolio Piece
+# Introduction 
+I was tasked with creating a responsive business landing page for a fictitious banking solution, Cache Bank, targeted at software developers. This project uses HTML, CSS, Tailwind, and JavaScript to build a functional and professional webpage.
 
-```
-# Install dependencies
-npm install
+# Elements Included
+A landing page that included a header and navigation bar, a hero and endorsements section, a features section, a statistics and getting started section, as well as a contact and footer section.
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
+# Reflections
+# Areas of Mastery
+HTML Layout: Was an area that I was able to complete efficiently as it consisted of the basic structure of the landing page.
+Tailwind CSS Styling Elements: Were included in order to style the page and made building the responsive design. 
 
-# Compile Tailwind CSS
-npm run build
+# Challenges Faced 
+The styling elements for the Getting Started section were particularly difficult because of the length of the Tailwind. 
 
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+# Overall Learning Experience
+This project allowed me to showcase my ability to create professional, functional landing pages, also while highlighting the importance, understanding, and use of the Tailwind cheatsheet.  
